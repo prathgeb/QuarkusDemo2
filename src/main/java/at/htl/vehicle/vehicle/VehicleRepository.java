@@ -41,6 +41,6 @@ public class VehicleRepository {
     }
 
     public void persist(Vehicle vehicle) {
-        //em.persist(vehicle);
+        em.persist(vehicle);
     }
 }
