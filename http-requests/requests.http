@@ -1,0 +1,12 @@
+### get person by id
+GET http://localhost:8080/person/1
+
+### get list of all vehicles
+GET http://localhost:8080/vehicles
+
+### get vehicle by id
+GET http://localhost:8080/vehicles/2
+
+### get list of all rentals
+GET http://localhost:8080/rentals
+
